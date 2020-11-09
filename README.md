@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Website is hosted live at https://prak20.github.io/responsivewebsite-react/
 
 ## Available Scripts
 
